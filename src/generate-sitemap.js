@@ -6,7 +6,7 @@ const urls = [
 ];
 
 // Tên miền chính của ứng dụng
-const hostname = 'http://localhost:5174';
+const hostname = 'https://blackscreen.love';
 
 // Hàm tạo nội dung sitemap
 const generateSitemap = (urls, hostname) => {

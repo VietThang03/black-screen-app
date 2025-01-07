@@ -45,7 +45,7 @@ const App = () => {
             name="description"
             content="Đây là trang chủ của ứng dụng Black Screen App. Tìm hiểu thêm thông tin tại đây!"
           />
-           <link rel="canonical" href="http://localhost:5174/" />
+           <link rel="canonical" href="https://blackscreen.love/" />
         </Helmet>
         {/* <button
           style={{ backgroundColor: "black" }}

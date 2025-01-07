@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /src/generate-sitemap.js
 Allow: /
-Sitemap: http://localhost:5174/sitemap.xml
+Sitemap: https://blackscreen.love/sitemap.xml
